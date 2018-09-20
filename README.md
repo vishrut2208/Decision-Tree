@@ -75,8 +75,8 @@ The code structure follows the order :
       Here we have used the post pruning to handle the overfitting.
       
        - to remove nodes we are selecting nodes in to different ways 
-             1) Randomly selecting from  innernodes (execpt the root node)
-             2) delecting the parent node of all the leaf nodes
+             - Randomly selecting from  innernodes (execpt the root node)
+             - delecting the parent node of all the leaf nodes
       
     
          
